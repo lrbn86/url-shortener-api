@@ -1,4 +1,4 @@
-# URL Shortening Service
+# URL Shortener API
 Shorten a given link
 
 ## Features
